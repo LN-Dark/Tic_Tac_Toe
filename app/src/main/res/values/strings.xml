@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="multy_player">Multy Player</string>
+    <string name="single_player">Single Player</string>
+    <string name="i_dare_you_to_win">I DARE YOU TO WIN</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="new_game">New Game</string>
+</resources>
